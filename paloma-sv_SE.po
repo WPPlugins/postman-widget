@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paloma Widget v1.0\n"
+"POT-Creation-Date: 2012-11-07 11:08+0100\n"
+"PO-Revision-Date: 2012-11-07 11:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: control.php:22 control.php:40 form.php:33
+msgid "Title"
+msgstr "Titel"
+
+#: control.php:28
+msgid "Description"
+msgstr "Beskrivning"
+
+#: control.php:34
+msgid "Extra Fields"
+msgstr "Extrafält"
+
+#: control.php:46 form.php:38
+msgid "Company"
+msgstr "Företag"
+
+#: control.php:52
+msgid "Mobile Nr"
+msgstr "Mobilnr"
+
+#: control.php:58
+msgid "Phone Nr"
+msgstr "Tel nr"
+
+#: control.php:64 form.php:53
+msgid "Fax"
+msgstr "Fax"
+
+#: control.php:70 form.php:58
+msgid "Address"
+msgstr "Adress"
+
+#: control.php:76
+msgid "Postcode"
+msgstr "Postnr"
+
+#: control.php:82 form.php:68
+msgid "City"
+msgstr "Stad"
+
+#: control.php:88 form.php:73
+msgid "Country"
+msgstr "Land"
+
+#: control.php:91
+msgid "Address List"
+msgstr "Adresslista"
+
+#: control.php:93
+msgid "Select list"
+msgstr "Välj lista"
+
+#: control.php:109
+msgid "URL of Thanks Page"
+msgstr "URL för tacksida"
+
+#: control.php:114
+msgid "Show Recent Mailings"
+msgstr "Visa senaste utskick"
+
+#: control.php:116
+msgid "None"
+msgstr "Inget"
+
+#: form.php:26
+msgid "Name"
+msgstr "Namn"
+
+#: form.php:28
+msgid "Email"
+msgstr "E-post"
+
+#: form.php:43
+msgid "Mobile Number"
+msgstr "Mobilnummer"
+
+#: form.php:48
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: form.php:63
+msgid "Postal Code"
+msgstr "Postnummer"
+
+#: form.php:77
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: form.php:79
+msgid "Latest mailings"
+msgstr "Senaste utskicken"
+
+#: form.php:130
+msgid "Invalid e-mail."
+msgstr "Ogiltig e-postadress."
+
+#: paloma_widget.php:38
+msgid "Allows visitors to subscribe to a Postman newsletter."
+msgstr "Låter besökare prenumerera på ditt nyhetsbrev."
+
+#: paloma_widget.php:54
+msgid "Postman Widget Options"
+msgstr "Postman Widget Alternativ"
+
+#: paloma_widget.php:118
+msgid "Postman Newsletter"
+msgstr "Postman Nyhetsbrev"
+
+#: paloma_widget.php:119
+msgid "Subscribe to our newsletter"
+msgstr "Prenumerera på vårt nyhetsbrev"
+
+#: paloma_widget_admin.php:26
+msgid "Options saved."
+msgstr "Dina val har sparats."
+
+#: paloma_widget_admin.php:43
+msgid "API Settings"
+msgstr "API-inställningar"
+
+#: paloma_widget_admin.php:47
+msgid ""
+"In order to collect newsletter subscriptions from your Postman Widget, you "
+"need to provide a valid Customer ID and Hash. If you are an active customer, "
+"contact support to receive your ID and hash: support@paloma.se"
+msgstr ""
+"För att samla prenumerationer till ditt nyhetsbrev med Postman Widget så "
+"måste du skriva ett giltig Kund ID och en Kundhash. Om du är en aktiv kund "
+"så kan du kontakta support för att få ditt ID och Hash: support@paloma.se"
+
+#: paloma_widget_admin.php:48
+msgid "Customer-ID:"
+msgstr "Kund-ID:"
+
+#: paloma_widget_admin.php:48
+msgid "ex: 1702"
+msgstr "ex: 1702"
+
+#: paloma_widget_admin.php:49
+msgid "Customer-Hash:"
+msgstr "Kund-Hash:"
+
+#: paloma_widget_admin.php:49
+msgid "ex: HTYU6hjGHF5Y"
+msgstr "ex: HTYU6hjGHF5Y"
+
+#: paloma_widget_admin.php:51
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: paloma_widget_admin.php:61
+#, php-format
+msgid "You have %d address lists."
+msgstr "Du har %d adresslistor."
+
+#: paloma_widget_admin.php:65
+msgid ""
+"Either the ID and hash are incorrect or you do not have any address lists."
+msgstr ""
+"Antingen är ID-numret/hashen inkorrekt eller så har du inte någon "
+"adresslista."
+
+#~ msgid "Submit"
+#~ msgstr "Skicka"
+
+#~ msgid "Paloma Newsletter Settings"
+#~ msgstr "Paloma Nyhetsbrev Alternativ"
+
+#~ msgid "Paloma Widget"
+#~ msgstr "Paloma Widget"
+
+#~ msgid "Thanks for subscribing!"
+#~ msgstr "Tack för din prenumeration!"
